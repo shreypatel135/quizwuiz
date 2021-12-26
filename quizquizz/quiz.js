@@ -28,7 +28,7 @@ var questionBank= [
     {
         question : 'Successor of 586728932 is',
         option : ['587628933','587628935','587628936','1587628931'],
-        answer : '1587628931'
+        answer : '587628933'
     },    
     {
         question : ' Which state of India has the longest coastline?',
