@@ -75,7 +75,7 @@ var span= document.querySelectorAll('span');
 var i=0;
 var j=0;
 var displayedquestions =[];
-var questioncount = 5;
+var questioncount = 4;
 var score= 0;
 
 //function to display questions
