@@ -65,6 +65,12 @@ var questionBank= [
         option : ['AryaBhatta','K.Sivan','Vikram Sharabhai','Amabalal Sarabhai'],
         answer : '10'
     },
+    {
+        question : 'when was the worst train tragedy happen?
+?',
+        option : ['1999','1934','1923','1919'],
+        answer : '10'
+    },
 ]
 
 var question= document.getElementById('question');
