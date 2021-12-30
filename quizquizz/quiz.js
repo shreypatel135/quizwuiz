@@ -66,8 +66,7 @@ var questionBank= [
         answer : 'Vikram Sharabhai'
     },
     {
-        question : 'when was the worst train tragedy happen?
-?',
+        question : 'when was the worst train tragedy happen?',
         option : ['1999','1934','1923','1919'],
         answer : '1999'
     },
