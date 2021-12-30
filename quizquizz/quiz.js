@@ -60,6 +60,11 @@ var questionBank= [
         option : ['9','5','8','10'],
         answer : '10'
     },
+    {
+        question : 'Who is the first chairman of ISRO?',
+        option : ['AryaBhatta','K.Sivan','Vikram Sharabhai','Amabalal Sarabhai'],
+        answer : '10'
+    },
 ]
 
 var question= document.getElementById('question');
